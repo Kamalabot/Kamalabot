@@ -1,0 +1,4 @@
+ToDo List
+Major ideas of git to be learnt and get ready for daily use
+Readme
+Repository is for understanding how git works
