@@ -49,7 +49,7 @@ I specialize in D3.js and manipulating DOM elements. Motivation to learn D3 came
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="geoWorld.png" align="center" style="width: 100%" />
 </div>  
 
 
