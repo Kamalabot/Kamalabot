@@ -21,10 +21,26 @@
 
 
 ### What I do...  
-I’m a data visualisation enthusiast with eye for patterns and problem solving. I love working with Data and shape it into stories that create impact. 
-I specialize in D3.js and manipulating DOM elements. Motivation to learn D3 came from my life long motivation to Mastery. To use the tool with an ease of a Pencil. The blank HTML page provides the freedom to create simple to very complex charts that make story telling much easier.  
-  
 
+Self motivated professional with a experience in Data Engineering,Analytics and Visualisation. 13+ years of Industry experience with 3+ years in IT services.  
+
+Experienced at data gathering and market research with tools like Python, Javascript, SQL and Excel.Strong know how about the file types like JSON, CSV and database files. 
+
+Hands on experience on Big Data analytics using Pyspark and Spark SQL. Taken up freelance projects involving DATA ETL from multiple sources and created Data pipeline using Pyspark. 
+
+Creating dashboards and expertise in converting business metrics into SQL queries. Skilled at OLAP and dimensional modelling like Star,  Snowflake and Hub & Spoke Schema. 
+
+Specialties: Data Extraction, Transformation and Visualisation. Data loading into Spark and Postgres Data base
+Cloud Technology : AWS Boto3, EC2, Redshift
+ETL : Excel Advanced, SQL, Python's Pandas & Pyspark, JavaScript's D3.js
+VCS : Comfortable with Git and Github 
+Operating System: Linux Arch and Debian flavors
+Programming Languages: Intermediate Python, Javascript and Bash Shell scripting
+Databases : Postgres
+Office Tools : Excel, Powerpoint and Word
+
+I love working with Data and shape it into stories that create impact. I specialize in D3.js and manipulating DOM elements. Motivation to learn D3 came from my life long motivation to Mastery. To use the tool with an ease of a Pencil. The blank HTML page provides the freedom to create simple to very complex charts that make story telling much easier.  
+  
 <br/>  
 
 
@@ -34,10 +50,13 @@ I specialize in D3.js and manipulating DOM elements. Motivation to learn D3 came
 
 
 ### What I Do  
-- 🔭 I’m currently working on [M3nD3](https://github.com/Kamalabot/M3nD3)  
+- 🔭 I wrangle, model and move data between databases, processing nodes and finally to visualisation
   
 
-- 🌱 I’m currently mastering D3.js and Vanilla JS  
+- 🔭 I am fluent with multiple data visualisation and insight generation using huge datasets. 
+  
+
+- 🌱 I’m currently mastering Linux Shell scripting, AWS Boto3, Pyspark 
   
 
 - ❓ Ask me anything about the visualisation charts, the data wrangling and problem solving  
@@ -60,10 +79,8 @@ I specialize in D3.js and manipulating DOM elements. Motivation to learn D3 came
 
 ## Languages and Tools  
 <div align="center">  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="25" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>  
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="25" /></a>  
@@ -71,8 +88,6 @@ I specialize in D3.js and manipulating DOM elements. Motivation to learn D3 came
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
 <a href="https://d3js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/d3js-original.svg" alt="D3.js" height="25" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" /></a>  
 </div>  
 
 <br/>  
