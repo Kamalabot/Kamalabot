@@ -22,32 +22,26 @@
 
 ### What I do...  
 
-- 🔭 Self motivated professional with a experience in Data Engineering,Analytics and Visualisation. 13+ years of Industry experience with 3+ years in IT services.  
+1) Providing Top class detail oriented consultation for real world problems with Generative AI platforms like OpenAI, HuggingFace, Groq and AWS Sage maker. 
 
-- 🔭 Experienced at data gathering and market research with tools like Python, Javascript, SQL and Excel.Strong know how about the file types like JSON, CSV and database files. 
+2) Developing AI based solution that target the Business problems, automation challenges and help in reducing cost, increase efficiency.
 
-- 🔭 Hands on experience on Big Data analytics using Pyspark and Spark SQL. Taken up freelance projects involving DATA ETL from multiple sources and created Data pipeline using Pyspark. 
+3) Write RAG pipelines from scratch in Python, that involve LLM framework like Langchain, vector store like faiss, weaviate, chromadb, and GenAI models API endpoints. 
 
-- 🔭 Creating dashboards and expertise in converting business metrics into SQL queries. Skilled at OLAP and dimensional modelling like Star,  Snowflake and Hub & Spoke Schema. 
+4) Develop Django Backend with RestAPI endpoints, by integrating with OpenAI, Groq and HuggingFace LLM API endpoints.
 
-Specialties: Data Extraction, Transformation and Visualisation. Data loading into Spark and Postgres Data base
+### Specialities & Skills
+- Programming Language: Python, C++ (Beginner)
+- Frameworks & Tools: Pytorch, Transformers, Langchain, Django & Streamlit
+- Generative AI Technologies: Open Source & Paid LLMs(Llama3, OpenAI, Gemini, AWS Sagemaker)
+- AI-Techniques: Fine-Tuning and Instruction tuning with Custom Data using Pytorch, Transformers, TRL, 
+- Vector Embedding & storing, Model Loading & deployment
+- Deployment Platforms: AWS EC2, Hugging Face Spaces, Streamlit
+- Relational Databases : Postgres & SQLite3
+- VCS : Git and Github
+- Operating System: Ubuntu Linux
 
-Cloud Technology : AWS Boto3, EC2, Redshift
-
-ETL : Excel Advanced, SQL, Python's Pandas & Pyspark, JavaScript's D3.js
-
-VCS : Comfortable with Git and Github 
-
-Operating System: Linux Arch and Debian flavors
-
-Programming Languages: Intermediate Python, Javascript and Bash Shell scripting
-
-Databases : Postgres
-
-Office Tools : Excel, Powerpoint and Word
-
-I love working with Data and shape it into stories that create impact. I specialize in D3.js and manipulating DOM elements. Motivation to learn D3 came from my life long motivation to Mastery. To use the tool with an ease of a Pencil. The blank HTML page provides the freedom to create simple to very complex charts that make story telling much easier.  
-  
+Innovative and detail oriented Senior Python Consultant eager to implement the in-depth knowledge in Large Language Models, NLP libraries like Pytorch, Transformers, LLM Frameworks like Langchain, DSPy along with Cloud Deployments in AWS & Google. 
 <br/>  
 
 
@@ -57,16 +51,16 @@ I love working with Data and shape it into stories that create impact. I special
 
 
 ### What I Do  
-- 🔭 I wrangle, model and move data between databases, processing nodes and finally to visualisation
+- 🔭 I possess the end to end knowledge of the Large Language model ecosystem starting with Pytorch, Transformers and various frameworks like Langchaing, LlamaIndex, DSPy
   
 
 - 🔭 I am fluent with multiple data visualisation and insight generation using huge datasets. 
   
 
-- 🌱 I’m currently mastering Linux Shell scripting, AWS Boto3, Pyspark 
+- 🌱 I’m currently mastering C++ and Nvidia Cuda C++ 
   
 
-- ❓ Ask me anything about the visualisation charts, the data wrangling and problem solving  
+- ❓ Ask me anything about the LLM, Vector Stores, Embedding Models, AI Application, Django RestAPI development
   
 
 - ⚡ Fun fact: I still think Sherlock Holmes is real life person  
@@ -87,14 +81,10 @@ I love working with Data and shape it into stories that create impact. I special
 ## Languages and Tools  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>  
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="25" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-<a href="https://d3js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/d3js-original.svg" alt="D3.js" height="25" /></a>  
 </div>  
 
 <br/>  
